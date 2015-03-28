@@ -1,0 +1,8 @@
+name: gpl2-license
+version: 0.1.0
+description: GNU General Public License v2.0 generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE

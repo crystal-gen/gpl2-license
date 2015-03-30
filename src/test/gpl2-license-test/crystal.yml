@@ -1,0 +1,9 @@
+name: gpl2-license-test
+version: 0.1.0
+description: gpl2-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  gpl2-license:
+    version: latest
